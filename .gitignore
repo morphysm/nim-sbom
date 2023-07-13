@@ -1,0 +1,12 @@
+*.json
+*.sh
+*.env
+*.cip
+*.tar
+*.log
+*.swp
+
+/testdir
+test.py
+old.py
+
